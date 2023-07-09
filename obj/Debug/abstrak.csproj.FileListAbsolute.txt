@@ -1,0 +1,8 @@
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu11\abstrak\bin\Debug\abstrak.exe.config
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu11\abstrak\bin\Debug\abstrak.exe
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu11\abstrak\bin\Debug\abstrak.pdb
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu11\abstrak\obj\Debug\abstrak.csproj.AssemblyReference.cache
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu11\abstrak\obj\Debug\abstrak.csproj.SuggestedBindingRedirects.cache
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu11\abstrak\obj\Debug\abstrak.csproj.CoreCompileInputs.cache
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu11\abstrak\obj\Debug\abstrak.exe
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu11\abstrak\obj\Debug\abstrak.pdb
